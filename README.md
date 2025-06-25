@@ -1,7 +1,5 @@
 # 🚀 Aqaba AI - High-Performance Cloud GPU Platform
 
-## 🌟 Overview
-
 [Aqaba AI](https://aqaba.ai) is a cutting-edge cloud GPU platform that provides instant access to high-performance computing resources for AI model training, inference, and deployment. We offer dedicated GPU instances including NVIDIA H100s, A100s, and RTX series GPUs, powered by renewable energy infrastructure.
 
 Our mission is to democratize AI computing by providing affordable, scalable, and environmentally sustainable GPU resources to researchers, developers, and businesses worldwide.
