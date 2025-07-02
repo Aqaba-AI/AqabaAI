@@ -1,14 +1,13 @@
 # 🚀 Aqaba AI - High-Performance Cloud GPU Platform
 
-[Aqaba AI](https://aqaba.ai) is a cutting-edge cloud GPU platform that provides instant access to high-performance computing resources for AI model training, inference, and deployment. We offer dedicated GPU instances including NVIDIA H100s, A100s, and RTX series GPUs, powered by renewable energy infrastructure.
+[Aqaba AI](https://aqaba.ai) is a cutting-edge cloud GPU platform that provides instant access to high-performance computing resources for AI model training, inference, and deployment. We offer dedicated GPU instances including NVIDIA H100s, A100s, and RTX series GPUs.
 
-Our mission is to democratize AI computing by providing affordable, scalable, and environmentally sustainable GPU resources to researchers, developers, and businesses worldwide.
+Our mission is to democratize AI computing by providing affordable, scalable, and sustainable GPU resources to researchers, developers, and businesses worldwide.
 
 ## ✨ Key Features
 
 - **🖥️ Dedicated GPU Instances**: Each GPU is exclusively allocated to a single user for maximum performance
 - **⚡ Instant Deployment**: Launch GPU instances in seconds, not minutes
-- **🌱 Green Computing**: 100% renewable energy-powered data centers
 - **💰 Flexible Pricing**: Pay-as-you-go hourly or discounted monthly plans
 - **🔧 Full Root Access**: Complete control over your computing environment
 - **📊 Real-time Monitoring**: Track usage, performance, and costs in real-time
@@ -54,7 +53,6 @@ nvidia-smi
 
 At Aqaba AI, we are committed to:
 
-- **♻️ Sustainability**: Operating with 100% renewable energy sources
 - **🔒 Security**: Enterprise-grade security for your data and models
 - **🚀 Innovation**: Continuously upgrading to the latest GPU technology
 - **💡 Accessibility**: Making AI compute affordable for everyone
